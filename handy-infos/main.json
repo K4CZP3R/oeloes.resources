@@ -3,5 +3,10 @@
 		"title": "Dynmap link",
 		"description": "Too small map view? Visit full Dynmap website here.",
 		"url": "https://map.oeloes.k4czp3r.xyz"
+	},
+	{
+		"title": "Commands",
+		"description": "Overview of handy commands!",
+		"url": "https://gist.github.com/K4CZP3R/f027b202e156987c26c6f61b00d1ba1c"
 	}
 ]
