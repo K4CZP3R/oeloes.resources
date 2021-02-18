@@ -1,4 +1,4 @@
 # Contact
 
-* [Discord server](https://discord.gg/MvkK5GMB3s)
+* [Discord server](https://short.k4czp3r.xyz/oeloes-dc-invite)
 * [Owner](mailto:me@k4czp3r.xyz)
