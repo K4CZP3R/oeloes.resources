@@ -18,12 +18,12 @@
 	{
 		"title": "Server uptime graph",
 		"description": "View the server uptime graph",
-		"url": "https://charts.mongodb.com/charts-oeloesuptime-pegqa/embed/charts?id=0231954b-1d01-4748-91f9-ec378690db98&theme=dark"
+		"url": "https://charts.mongodb.com/charts-oeloesuptime-pegqa/embed/charts?id=0231954b-1d01-4748-91f9-ec378690db98&&autoRefresh=60&theme=dark"
 	},
 	{
 		"title": "Players online graph",
 		"description": "View the players online over time graph",
-		"url": "https://charts.mongodb.com/charts-oeloesuptime-pegqa/embed/charts?id=b58ea387-4b04-458b-959a-c878721cba22&theme=light"
+		"url": "https://charts.mongodb.com/charts-oeloesuptime-pegqa/embed/charts?id=b58ea387-4b04-458b-959a-c878721cba22&autoRefresh=60&theme=dark"
 	}
 	
 ]
